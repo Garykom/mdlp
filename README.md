@@ -9,5 +9,5 @@ https://www.cryptopro.ru/products/other/stunnel-msspi
 3. Открыть Тест_МДЛП_ГГГГ_ММ_ДД_ХХ.ert в любой конфе 1С 7.7, там есть комментарии в тексте (адрес и порт mdlp, пользователь, отпечаток сертификата подписи и т.д.).
 
 Все собрано под Windows x86, можно сделать варианты под x86_64 и linux.
-Обработка 1С 7.7 для работы требует WinHTTP 5.1 и MSXML (лучше поставить 6 для Windows старее Vista).
+Обработка 1С 7.7 для работы требует WinHTTP 5.1 и MSXML (лучше поставить версии 6 для Windows старее Vista).
 https://www.microsoft.com/ru-ru/download/details.aspx?id=6276
