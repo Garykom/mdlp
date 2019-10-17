@@ -1,0 +1,10 @@
+
+2019/10/17 20:12:22 main.go:785: Start MDLP Server
+
+2019/10/17 20:12:22 main.go:786: Current version 0.1
+
+2019/10/17 20:12:22 main.go:812: Start HTTP server
+
+2019/10/17 20:12:25 main.go:911: Requesting quit
+
+2019/10/17 20:12:25 main.go:913: Finished quitting
